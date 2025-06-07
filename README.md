@@ -1,4 +1,5 @@
 # similar-style-ani
+[클라우드 및 가상화 도커 프로젝트 과제용]
 이 프로젝트는 Measuring Style Similarity Model로 애니메이션 그림체의 유사성을 계산한 뒤 그림체가 유사한 애니메이션을 추천해주는 웹입니다.
 
 ## 사용방법
